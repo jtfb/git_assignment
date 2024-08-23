@@ -16,7 +16,7 @@ Go to the settings in the repository. In the left sidebar, click on "Collaborato
 git is a local version control. Github is the one online
 
 #f. What does git diff do?  
-It shows the difference between your working files and the files you have commited
+It shows the difference between the files in the main branch and the files you have commited
 
 #g. What is the main branch?  
 It's the default branch in the repository
